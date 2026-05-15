@@ -62,4 +62,4 @@ A professional Node.js backend that provides real-time weather data with a high-
 └── .env                # Environment variables (Internal use)
 ```
 
-Project idea taken from: https://roadmap.sh/projects/task-tracker
+Project idea taken from: https://roadmap.sh/projects/weather-api-wrapper-service
